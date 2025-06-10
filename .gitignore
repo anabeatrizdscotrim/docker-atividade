@@ -1,0 +1,22 @@
+# Ignora a pasta node_modules
+node_modules/
+
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignora sistema operacional (Windows/macOS/Linux)
+.DS_Store
+Thumbs.db
+
+# Ignora ambiente
+.env
+
+# Ignora arquivos temporários do editor
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Outros arquivos locais
+*.local
